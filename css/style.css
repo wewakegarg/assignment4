@@ -1,0 +1,142 @@
+header {
+    height: 70px;
+    background-color: lightgreen;
+}
+
+.sec2 {
+	float: left;
+}
+
+.name {
+	float: left;
+    width: 50%;
+}
+
+body{
+	margin: 0px;
+}
+
+h1,
+a {
+    color: red;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+}
+
+li a:hover {
+    color: lightblue;
+}
+
+li a:link {
+    text-decoration: none;
+}
+
+li {
+    float: left;
+    padding: 14px 16px;
+    font-size: 22px;
+}
+
+h2,
+p,
+h3,
+h4 {
+    text-align: center;
+}
+
+.clearfix {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.main {
+    height: 200px;
+    background-color: purple;
+}
+
+.me {
+    text-align: center;
+    width: 100%;
+}
+
+.info {
+    text-align: center;
+    width: 100%;
+}
+
+.yogi {
+    height: 300px;
+    background-color: lightblue;
+}
+
+.personal {
+    float: left;
+    width: 50%;
+}
+
+.lftpersonl {
+    height: 243px;
+    background-color: yellow;
+}
+
+.rtpersonl {
+    height: 243px;
+    background-color: orange;
+}
+
+.head1 {
+	margin: 0px;
+	padding: 15px;
+}
+.head2 {
+	margin: 0px;
+	padding: 15px;
+}
+.abouthead {
+	margin: 0px;
+	padding: 15px;
+}
+.contactsec {
+	width: 100%;
+	height: 300px;
+	background-color: brown;
+}
+.addinfo {
+	float: left;
+	width: 50%;
+	height: 223px;
+	background-color: grey;
+	text-align: center;
+	padding: 10px;
+}
+.formmain {
+	margin: 0px;
+	height: 243px;
+	background-color: aqua;
+	text-align: center;
+}
+.addhead {
+	margin: 0px;
+}
+.form {
+	
+	width: 25%;
+}
+.headquery {
+	margin: 0px;
+}
+.footer {
+	 height: 50px;
+    margin: 0px;
+    background-color: darkolivegreen;
+}
+.head4 {
+	margin: 0px;
+	padding: 15px;
+}
